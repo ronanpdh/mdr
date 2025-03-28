@@ -1,0 +1,26 @@
+{
+  "name": "lumon-mdr-theme",
+  "displayName": "Lumon MDR Theme",
+  "description": "Lumon MDR themes inspired by Severance",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lumon Terminal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lumon-terminal-dark.json"
+      },
+      {
+        "label": "Lumon Terminal Light",
+        "uiTheme": "vs",
+        "path": "./themes/lumon-terminal-light.json"
+      }
+    ]
+  }
+}

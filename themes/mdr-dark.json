@@ -1,0 +1,157 @@
+{
+    "name": "Lumon MDR Terminal Dark",
+    "type": "dark",
+    "colors": {
+      "editor.foreground": "#B6FCFE",
+      "editor.background": "#102E47",
+      "editorCursor.foreground": "#B6FCFE",
+      "editor.lineHighlightBackground": "#0A3E7A50",
+      "editor.selectionBackground": "#0B5CB980",
+      "editor.inactiveSelectionBackground": "#244B6C",
+      "editor.findMatchBackground": "#0689AD80",
+      "editor.findMatchHighlightBackground": "#0689AD40",
+      
+      "activityBar.background": "#0A3E7A",
+      "activityBar.foreground": "#B6FCFE",
+      "activityBar.inactiveForeground": "#3E696B",
+      "activityBarBadge.background": "#0689AD",
+      "activityBarBadge.foreground": "#B6FCFE",
+      
+      "sideBar.background": "#0A3E7A",
+      "sideBar.foreground": "#B6FCFE",
+      "sideBarTitle.foreground": "#B6FCFE",
+      "sideBarSectionHeader.background": "#102E47",
+      "sideBarSectionHeader.foreground": "#B6FCFE",
+      
+      "titleBar.activeBackground": "#102E47",
+      "titleBar.activeForeground": "#B6FCFE",
+      "titleBar.inactiveBackground": "#102E47",
+      "titleBar.inactiveForeground": "#3E696B",
+      
+      "statusBar.background": "#0A3E7A",
+      "statusBar.foreground": "#B6FCFE",
+      "statusBar.noFolderBackground": "#102E47",
+      "statusBarItem.hoverBackground": "#0B5CB9",
+      
+      "tab.activeBackground": "#102E47",
+      "tab.activeForeground": "#B6FCFE",
+      "tab.inactiveBackground": "#0A3E7A",
+      "tab.inactiveForeground": "#3E696B",
+      "tab.border": "#102E47",
+      
+      "list.activeSelectionBackground": "#0B5CB9",
+      "list.activeSelectionForeground": "#B6FCFE",
+      "list.inactiveSelectionBackground": "#244B6C",
+      "list.inactiveSelectionForeground": "#B6FCFE",
+      "list.hoverBackground": "#0A3E7A",
+      "list.hoverForeground": "#B6FCFE",
+      
+      "panel.background": "#102E47",
+      "panel.border": "#0A3E7A",
+      "panelTitle.activeForeground": "#B6FCFE",
+      "panelTitle.inactiveForeground": "#3E696B",
+      
+      "input.background": "#0A3E7A",
+      "input.foreground": "#B6FCFE",
+      "input.placeholderForeground": "#3E696B",
+      "input.border": "#0689AD",
+      
+      "button.background": "#0689AD",
+      "button.foreground": "#B6FCFE",
+      "button.hoverBackground": "#0B5CB9",
+      
+      "scrollbarSlider.background": "#244B6C80",
+      "scrollbarSlider.hoverBackground": "#244B6CAA",
+      "scrollbarSlider.activeBackground": "#0689AD",
+      
+      "terminal.background": "#102E47",
+      "terminal.foreground": "#B6FCFE",
+      "terminal.ansiBlack": "#102E47",
+      "terminal.ansiBlue": "#0B5CB9",
+      "terminal.ansiCyan": "#0689AD",
+      "terminal.ansiGreen": "#3E696B",
+      "terminal.ansiMagenta": "#244B6C",
+      "terminal.ansiRed": "#0A3E7A",
+      "terminal.ansiWhite": "#B6FCFE",
+      "terminal.ansiYellow": "#B6FCFE"
+    },
+    "tokenColors": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#3E696B",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "string",
+        "settings": {
+          "foreground": "#B6FCFE"
+        }
+      },
+      {
+        "scope": "variable",
+        "settings": {
+          "foreground": "#0689AD"
+        }
+      },
+      {
+        "scope": "variable.other",
+        "settings": {
+          "foreground": "#B6FCFE"
+        }
+      },
+      {
+        "scope": "keyword",
+        "settings": {
+          "foreground": "#0B5CB9",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "storage",
+        "settings": {
+          "foreground": "#0B5CB9",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "entity.name.function",
+        "settings": {
+          "foreground": "#0689AD",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "entity.name.type",
+        "settings": {
+          "foreground": "#0689AD"
+        }
+      },
+      {
+        "scope": "entity.name.tag",
+        "settings": {
+          "foreground": "#0B5CB9",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "support.function",
+        "settings": {
+          "foreground": "#0689AD"
+        }
+      },
+      {
+        "scope": "constant.numeric",
+        "settings": {
+          "foreground": "#B6FCFE"
+        }
+      },
+      {
+        "scope": "punctuation",
+        "settings": {
+          "foreground": "#3E696B"
+        }
+      }
+    ]
+  }
