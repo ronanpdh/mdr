@@ -13,8 +13,8 @@ A VS Code theme inspired by the Lumon Industries terminal from the TV show "Seve
 
 ## Preview
 
-![Lumon Terminal Dark Theme](https://placeholder-for-screenshot.png)
-![Lumon Terminal Light Theme](https://placeholder-for-screenshot.png)
+![Lumon Terminal Dark Theme](./assets//lumon-dark.png)
+![Lumon Terminal Light Theme](./assets//lumon-light.png)
 
 ## Features
 
